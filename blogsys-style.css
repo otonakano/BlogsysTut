@@ -24,20 +24,32 @@ h1 {
 	color: #27313D;
 }
 
-div.articlebox {
+div.articleboxsamp {
 	height: 400px;
 	width: 640px;
 	float: left;
 	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
-	background-repeat: no-repeat;
+}
+
+div.titletextbox {
+	height: 50px;
+	width: 640px;
+	float: left;
+	background-color: white;
+}
+
+div.articleboxsamp2 {
+	height: 350px;
+	width: 640px;
+	float: left;
 }
 
 h2 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 25px;
-	font-weight: bold;
-	margin-top: 15px;
+	font-weight: normal;
+	margin-top: 5px;
 	margin-left: 20px;
 }
