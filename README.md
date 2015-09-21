@@ -1,4 +1,4 @@
 
 #BlogsysTut
 
-* TopPage Image size - h400px w640px
+* TopPage Image size - h600px w600px
