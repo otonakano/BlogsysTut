@@ -23,6 +23,24 @@ h1 {
 	color: #27313D;
 }
 
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-left: 20px;
+	color: #383838
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-left: 50px;
+	color: #383838
+}
+
 div.articleboxsamp {
 	height: 650px;
 	width: 600px;
@@ -58,20 +76,3 @@ img.boximg {
 	overflow: hidden;
 }
 
-h2 {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 20px;
-	font-weight: normal;
-	margin-top: 10px;
-	margin-left: 20px;
-	color: #383838
-}
-
-h3 {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 20px;
-	font-weight: normal;
-	margin-top: 10px;
-	margin-left: 50px;
-	color: #383838
-}
