@@ -1,4 +1,4 @@
 
 #BlogsysTut
 
-* TopPage Image size - h600px w600px
+ブログシステムのチュートリアル。日記風。シンプル。
