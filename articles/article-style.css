@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+html {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 400px;
+}
+
+body {
+	background-color: #F5F1E9;
+	padding: 10px;
+}
+
+h1 {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Open Sans','Roboto', sans-serif;
+	font-weight: normal;	
+	font-size: 40px;
+	color: #27313D;
+}
+
+img.photo {
+	width: 600px;
+	margin-top: 20px;
+}
+
+a {
+	font-family: 'Open Sans','Roboto', sans-serif;
+	font-weight: normal;
+	font-size: 15px;
+}
